@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2b039654e0451f448b50df166eaaeb7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kaph
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1d588144450ec04386d88720ba8c174, type: 3}
+  - {fileID: 12800000, guid: 74f3eed9e042a8b4a9b00cc0edb5ba5f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
